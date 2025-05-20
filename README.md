@@ -31,7 +31,7 @@ After downloading, please place the `customer_churn.csv` file in the project fol
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mounika698/churn-pred.git
+   git clone https://github.com/mounika698/Customer_churn-_Pred.git
    cd churn-prediction
 
 
