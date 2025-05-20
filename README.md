@@ -13,6 +13,17 @@ An interactive web app built with **Streamlit** that predicts whether a customer
 - Simple **navigation** between Prediction, Visualization, and Statistics pages.
 - **Logs** predictions into a CSV for tracking over time.
 
+
+
+
+## Dataset
+
+The dataset is too large to upload here.  
+You can download it from this link:  
+[Download customer_churn.csv](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
+
+After downloading, please place the `customer_churn.csv` file in the project folder before running the app.
+
 ---
 
 ## 🚀 Quick Start — How to Run Locally
