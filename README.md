@@ -20,7 +20,22 @@ An interactive web app built with **Streamlit** that predicts whether a customer
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/churn-prediction.git
+   git clone https://github.com/mounika698/churn-pred.git
    cd churn-prediction
 
-# Customer_Churn-_Pred
+
+```bash
+# Create virtual environment
+python3 -m venv venv
+
+# Activate virtual environment (macOS/Linux)
+source venv/bin/activate
+
+# Activate virtual environment (Windows)
+venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run apps.py
